@@ -1,0 +1,13 @@
+F:\C#8.0\C-8.0\Repos\bin\Debug\netcoreapp3.1\Repos.exe
+F:\C#8.0\C-8.0\Repos\bin\Debug\netcoreapp3.1\Repos.deps.json
+F:\C#8.0\C-8.0\Repos\bin\Debug\netcoreapp3.1\Repos.runtimeconfig.json
+F:\C#8.0\C-8.0\Repos\bin\Debug\netcoreapp3.1\Repos.runtimeconfig.dev.json
+F:\C#8.0\C-8.0\Repos\bin\Debug\netcoreapp3.1\Repos.dll
+F:\C#8.0\C-8.0\Repos\bin\Debug\netcoreapp3.1\Repos.pdb
+F:\C#8.0\C-8.0\Repos\obj\Debug\netcoreapp3.1\Repos.csprojAssemblyReference.cache
+F:\C#8.0\C-8.0\Repos\obj\Debug\netcoreapp3.1\Repos.AssemblyInfoInputs.cache
+F:\C#8.0\C-8.0\Repos\obj\Debug\netcoreapp3.1\Repos.AssemblyInfo.cs
+F:\C#8.0\C-8.0\Repos\obj\Debug\netcoreapp3.1\Repos.csproj.CoreCompileInputs.cache
+F:\C#8.0\C-8.0\Repos\obj\Debug\netcoreapp3.1\Repos.dll
+F:\C#8.0\C-8.0\Repos\obj\Debug\netcoreapp3.1\Repos.pdb
+F:\C#8.0\C-8.0\Repos\obj\Debug\netcoreapp3.1\Repos.genruntimeconfig.cache
