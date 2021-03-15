@@ -1,0 +1,13 @@
+F:\C#8.0\C-8.0\Charter\Arrays\bin\Debug\netcoreapp3.1\Arrays.exe
+F:\C#8.0\C-8.0\Charter\Arrays\bin\Debug\netcoreapp3.1\Arrays.deps.json
+F:\C#8.0\C-8.0\Charter\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.json
+F:\C#8.0\C-8.0\Charter\Arrays\bin\Debug\netcoreapp3.1\Arrays.runtimeconfig.dev.json
+F:\C#8.0\C-8.0\Charter\Arrays\bin\Debug\netcoreapp3.1\Arrays.dll
+F:\C#8.0\C-8.0\Charter\Arrays\bin\Debug\netcoreapp3.1\Arrays.pdb
+F:\C#8.0\C-8.0\Charter\Arrays\obj\Debug\netcoreapp3.1\Arrays.csprojAssemblyReference.cache
+F:\C#8.0\C-8.0\Charter\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfoInputs.cache
+F:\C#8.0\C-8.0\Charter\Arrays\obj\Debug\netcoreapp3.1\Arrays.AssemblyInfo.cs
+F:\C#8.0\C-8.0\Charter\Arrays\obj\Debug\netcoreapp3.1\Arrays.csproj.CoreCompileInputs.cache
+F:\C#8.0\C-8.0\Charter\Arrays\obj\Debug\netcoreapp3.1\Arrays.dll
+F:\C#8.0\C-8.0\Charter\Arrays\obj\Debug\netcoreapp3.1\Arrays.pdb
+F:\C#8.0\C-8.0\Charter\Arrays\obj\Debug\netcoreapp3.1\Arrays.genruntimeconfig.cache

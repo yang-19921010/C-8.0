@@ -1,0 +1,13 @@
+F:\C#8.0\C-8.0\Charter\Basics\bin\Debug\netcoreapp3.1\Basics.exe
+F:\C#8.0\C-8.0\Charter\Basics\bin\Debug\netcoreapp3.1\Basics.deps.json
+F:\C#8.0\C-8.0\Charter\Basics\bin\Debug\netcoreapp3.1\Basics.runtimeconfig.json
+F:\C#8.0\C-8.0\Charter\Basics\bin\Debug\netcoreapp3.1\Basics.runtimeconfig.dev.json
+F:\C#8.0\C-8.0\Charter\Basics\bin\Debug\netcoreapp3.1\Basics.dll
+F:\C#8.0\C-8.0\Charter\Basics\bin\Debug\netcoreapp3.1\Basics.pdb
+F:\C#8.0\C-8.0\Charter\Basics\obj\Debug\netcoreapp3.1\Basics.csprojAssemblyReference.cache
+F:\C#8.0\C-8.0\Charter\Basics\obj\Debug\netcoreapp3.1\Basics.AssemblyInfoInputs.cache
+F:\C#8.0\C-8.0\Charter\Basics\obj\Debug\netcoreapp3.1\Basics.AssemblyInfo.cs
+F:\C#8.0\C-8.0\Charter\Basics\obj\Debug\netcoreapp3.1\Basics.csproj.CoreCompileInputs.cache
+F:\C#8.0\C-8.0\Charter\Basics\obj\Debug\netcoreapp3.1\Basics.dll
+F:\C#8.0\C-8.0\Charter\Basics\obj\Debug\netcoreapp3.1\Basics.pdb
+F:\C#8.0\C-8.0\Charter\Basics\obj\Debug\netcoreapp3.1\Basics.genruntimeconfig.cache

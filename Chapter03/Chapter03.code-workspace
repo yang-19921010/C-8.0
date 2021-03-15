@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "Operators"
+		},
+		{
+			"path": "BooleanOperatros"
+		},
+		{
+			"path": "SelectionStatements"
+		},
+		{
+			"path": "C#9.0"
+		}
+	],
+	"settings": {}
+}

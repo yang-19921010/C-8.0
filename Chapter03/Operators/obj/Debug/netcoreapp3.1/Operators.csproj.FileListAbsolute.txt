@@ -1,0 +1,13 @@
+F:\C#8.0\C-8.0\Chapter03\Operators\bin\Debug\netcoreapp3.1\Operators.exe
+F:\C#8.0\C-8.0\Chapter03\Operators\bin\Debug\netcoreapp3.1\Operators.deps.json
+F:\C#8.0\C-8.0\Chapter03\Operators\bin\Debug\netcoreapp3.1\Operators.runtimeconfig.json
+F:\C#8.0\C-8.0\Chapter03\Operators\bin\Debug\netcoreapp3.1\Operators.runtimeconfig.dev.json
+F:\C#8.0\C-8.0\Chapter03\Operators\bin\Debug\netcoreapp3.1\Operators.dll
+F:\C#8.0\C-8.0\Chapter03\Operators\bin\Debug\netcoreapp3.1\Operators.pdb
+F:\C#8.0\C-8.0\Chapter03\Operators\obj\Debug\netcoreapp3.1\Operators.csprojAssemblyReference.cache
+F:\C#8.0\C-8.0\Chapter03\Operators\obj\Debug\netcoreapp3.1\Operators.AssemblyInfoInputs.cache
+F:\C#8.0\C-8.0\Chapter03\Operators\obj\Debug\netcoreapp3.1\Operators.AssemblyInfo.cs
+F:\C#8.0\C-8.0\Chapter03\Operators\obj\Debug\netcoreapp3.1\Operators.csproj.CoreCompileInputs.cache
+F:\C#8.0\C-8.0\Chapter03\Operators\obj\Debug\netcoreapp3.1\Operators.dll
+F:\C#8.0\C-8.0\Chapter03\Operators\obj\Debug\netcoreapp3.1\Operators.pdb
+F:\C#8.0\C-8.0\Chapter03\Operators\obj\Debug\netcoreapp3.1\Operators.genruntimeconfig.cache

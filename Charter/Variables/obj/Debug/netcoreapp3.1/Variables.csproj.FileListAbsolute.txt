@@ -1,0 +1,13 @@
+F:\C#8.0\C-8.0\Variables\bin\Debug\netcoreapp3.1\Variables.exe
+F:\C#8.0\C-8.0\Variables\bin\Debug\netcoreapp3.1\Variables.deps.json
+F:\C#8.0\C-8.0\Variables\bin\Debug\netcoreapp3.1\Variables.runtimeconfig.json
+F:\C#8.0\C-8.0\Variables\bin\Debug\netcoreapp3.1\Variables.runtimeconfig.dev.json
+F:\C#8.0\C-8.0\Variables\bin\Debug\netcoreapp3.1\Variables.dll
+F:\C#8.0\C-8.0\Variables\bin\Debug\netcoreapp3.1\Variables.pdb
+F:\C#8.0\C-8.0\Variables\obj\Debug\netcoreapp3.1\Variables.csprojAssemblyReference.cache
+F:\C#8.0\C-8.0\Variables\obj\Debug\netcoreapp3.1\Variables.AssemblyInfoInputs.cache
+F:\C#8.0\C-8.0\Variables\obj\Debug\netcoreapp3.1\Variables.AssemblyInfo.cs
+F:\C#8.0\C-8.0\Variables\obj\Debug\netcoreapp3.1\Variables.csproj.CoreCompileInputs.cache
+F:\C#8.0\C-8.0\Variables\obj\Debug\netcoreapp3.1\Variables.dll
+F:\C#8.0\C-8.0\Variables\obj\Debug\netcoreapp3.1\Variables.pdb
+F:\C#8.0\C-8.0\Variables\obj\Debug\netcoreapp3.1\Variables.genruntimeconfig.cache

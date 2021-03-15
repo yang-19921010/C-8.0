@@ -1,0 +1,13 @@
+F:\C#8.0\C-8.0\Chapter03\BooleanOperatros\bin\Debug\netcoreapp3.1\BooleanOperatros.exe
+F:\C#8.0\C-8.0\Chapter03\BooleanOperatros\bin\Debug\netcoreapp3.1\BooleanOperatros.deps.json
+F:\C#8.0\C-8.0\Chapter03\BooleanOperatros\bin\Debug\netcoreapp3.1\BooleanOperatros.runtimeconfig.json
+F:\C#8.0\C-8.0\Chapter03\BooleanOperatros\bin\Debug\netcoreapp3.1\BooleanOperatros.runtimeconfig.dev.json
+F:\C#8.0\C-8.0\Chapter03\BooleanOperatros\bin\Debug\netcoreapp3.1\BooleanOperatros.dll
+F:\C#8.0\C-8.0\Chapter03\BooleanOperatros\bin\Debug\netcoreapp3.1\BooleanOperatros.pdb
+F:\C#8.0\C-8.0\Chapter03\BooleanOperatros\obj\Debug\netcoreapp3.1\BooleanOperatros.csprojAssemblyReference.cache
+F:\C#8.0\C-8.0\Chapter03\BooleanOperatros\obj\Debug\netcoreapp3.1\BooleanOperatros.AssemblyInfoInputs.cache
+F:\C#8.0\C-8.0\Chapter03\BooleanOperatros\obj\Debug\netcoreapp3.1\BooleanOperatros.AssemblyInfo.cs
+F:\C#8.0\C-8.0\Chapter03\BooleanOperatros\obj\Debug\netcoreapp3.1\BooleanOperatros.csproj.CoreCompileInputs.cache
+F:\C#8.0\C-8.0\Chapter03\BooleanOperatros\obj\Debug\netcoreapp3.1\BooleanOperatros.dll
+F:\C#8.0\C-8.0\Chapter03\BooleanOperatros\obj\Debug\netcoreapp3.1\BooleanOperatros.pdb
+F:\C#8.0\C-8.0\Chapter03\BooleanOperatros\obj\Debug\netcoreapp3.1\BooleanOperatros.genruntimeconfig.cache

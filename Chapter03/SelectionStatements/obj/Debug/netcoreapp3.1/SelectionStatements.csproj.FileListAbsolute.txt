@@ -1,0 +1,13 @@
+F:\C#8.0\C-8.0\Chapter03\SelectionStatements\bin\Debug\netcoreapp3.1\SelectionStatements.exe
+F:\C#8.0\C-8.0\Chapter03\SelectionStatements\bin\Debug\netcoreapp3.1\SelectionStatements.deps.json
+F:\C#8.0\C-8.0\Chapter03\SelectionStatements\bin\Debug\netcoreapp3.1\SelectionStatements.runtimeconfig.json
+F:\C#8.0\C-8.0\Chapter03\SelectionStatements\bin\Debug\netcoreapp3.1\SelectionStatements.runtimeconfig.dev.json
+F:\C#8.0\C-8.0\Chapter03\SelectionStatements\bin\Debug\netcoreapp3.1\SelectionStatements.dll
+F:\C#8.0\C-8.0\Chapter03\SelectionStatements\bin\Debug\netcoreapp3.1\SelectionStatements.pdb
+F:\C#8.0\C-8.0\Chapter03\SelectionStatements\obj\Debug\netcoreapp3.1\SelectionStatements.csprojAssemblyReference.cache
+F:\C#8.0\C-8.0\Chapter03\SelectionStatements\obj\Debug\netcoreapp3.1\SelectionStatements.AssemblyInfoInputs.cache
+F:\C#8.0\C-8.0\Chapter03\SelectionStatements\obj\Debug\netcoreapp3.1\SelectionStatements.AssemblyInfo.cs
+F:\C#8.0\C-8.0\Chapter03\SelectionStatements\obj\Debug\netcoreapp3.1\SelectionStatements.csproj.CoreCompileInputs.cache
+F:\C#8.0\C-8.0\Chapter03\SelectionStatements\obj\Debug\netcoreapp3.1\SelectionStatements.dll
+F:\C#8.0\C-8.0\Chapter03\SelectionStatements\obj\Debug\netcoreapp3.1\SelectionStatements.pdb
+F:\C#8.0\C-8.0\Chapter03\SelectionStatements\obj\Debug\netcoreapp3.1\SelectionStatements.genruntimeconfig.cache

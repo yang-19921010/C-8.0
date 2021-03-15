@@ -1,0 +1,4 @@
+I am Trace!
+error
+warning
+information
